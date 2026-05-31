@@ -210,8 +210,3 @@ If you found this project useful:
 
 ---
 
-<div align="center">
-
-### Built with ❤️ using Python
-
-</div>
